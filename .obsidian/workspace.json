@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Owner Path/Анализ продукта. Конкуренты и рынок/Модели монетизации.md",
+                "file": "Product Owner Path/Анализ продукта. Конкуренты и рынок/Jobs to be done (JTBD).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модели монетизации"
+              "title": "Jobs to be done (JTBD)"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "584db7bd07871480",
   "lastOpenFiles": [
     "Product Owner Path/Анализ продукта. Конкуренты и рынок/Модели монетизации.md",
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Jobs to be done (JTBD).md",
     "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ среды рынка и конкурентов.md",
     "Pasted image 20250716134722.png",
     "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ продукта.md",
@@ -221,7 +222,6 @@
     "Product Owner Path/Untitled.md",
     "Product Owner Path/Постановка целей",
     "Product Owner Path",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
