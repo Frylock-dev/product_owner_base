@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ среды рынка и конкурентов.md",
+                "file": "Product Owner Path/Анализ продукта. Конкуренты и рынок/Модели монетизации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ среды рынка и конкурентов"
+              "title": "Модели монетизации"
             }
           }
         ]
@@ -181,15 +181,17 @@
   },
   "active": "584db7bd07871480",
   "lastOpenFiles": [
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Модели монетизации.md",
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ среды рынка и конкурентов.md",
+    "Pasted image 20250716134722.png",
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ продукта.md",
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Оценка объёма рынка.md",
+    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Зачем продакту оценивать рынок.md",
     "Pasted image 20250716134437.png",
     "Pasted image 20250716134357.png",
     "Pasted image 20250716134308.png",
     "Pasted image 20250716134224.png",
     "Pasted image 20250716134201.png",
-    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Оценка объёма рынка.md",
-    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ среды рынка и конкурентов.md",
-    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Зачем продакту оценивать рынок.md",
-    "Product Owner Path/Анализ продукта. Конкуренты и рынок/Анализ продукта.md",
     "Product Owner Path/Постановка целей/Продуктовая гипотеза.md",
     "Product Owner Path/Постановка целей/Цели и метрики.md",
     "Product Owner Path/Постановка целей/Методы приоритизации гипотез.md",
@@ -205,8 +207,6 @@
     "Pasted image 20250713191946.png",
     "Product Owner Path/Agile/Scrum/Артефакты/Increment Артефакты 1.md",
     "Product Owner Path/Agile/Scrum/Артефакты/Increment Артефакты.md",
-    "Pasted image 20250713191904.png",
-    "Pasted image 20250713191849.png",
     "Product Owner Path/Agile/Agile.md",
     "Product Owner Path/Agile/Scrum/Артефакты/Sprint Backlog.md",
     "Product Owner Path/Agile/Scrum/Sprint.md",
